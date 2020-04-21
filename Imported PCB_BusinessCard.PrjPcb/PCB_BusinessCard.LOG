@@ -1,0 +1,15 @@
+Importer Log Report
+Project : PCB_BusinessCard.PrjPcb
+
+Section : Analyze Document - C:\Users\Alexander Cafarella\Documents\Altium\Business card\PCB_BusinessCard.lbr
+    Analyzing data of C:\Users\Alexander Cafarella\Documents\Altium\Business card\PCB_BusinessCard.lbr
+    Load settings
+    Load layers 48
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection

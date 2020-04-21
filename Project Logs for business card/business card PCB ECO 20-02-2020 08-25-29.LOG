@@ -1,0 +1,17 @@
+Added Component: Designator=LED1(LEDC2012X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/AP2012SGD3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP2012SGD3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "604-AP2012SGD3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AP2012SGD3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=LED1-1
+Added Pin To Net: NetName=LA Pin=U1-1
+Added Net: Name=LA
+Added Pin To Net: NetName=LB Pin=U1-8
+Added Net: Name=LB
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=business card Member=Component LED1 AP2012SGD3
