@@ -1,4 +1,4 @@
-# PCBusinessCard
+# PCB Business Card
 PCB Business Card
-Designed In Altium Designer. NFC and RGB builtin
-## This work is under exclusive copyright (C) of Alexander Cafarella 2020.
+Designed In Altium Designer. NFC and an LED builtin
+
